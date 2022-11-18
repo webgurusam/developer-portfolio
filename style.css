@@ -51,7 +51,7 @@ h2 {
 .dream-big {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right bottom;
     padding-right: 150px;
 }
 img .pic2 {
