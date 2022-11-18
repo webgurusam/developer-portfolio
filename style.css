@@ -36,6 +36,7 @@ h2 {
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
     color: #ffffff;
+    display: inline-block;
 }
 
 .top-banner {
