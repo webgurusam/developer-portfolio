@@ -54,6 +54,9 @@ h2 {
     background-position: right;
     padding-right: 150px;
 }
+img .pic2 {
+    width: 100%;
+}
 
 .experience-area {
     background-image: url(images/exp-bg.png);
